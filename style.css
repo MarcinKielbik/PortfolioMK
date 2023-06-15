@@ -1,16 +1,16 @@
 body {
     margin: 0;
-    color: #ffffff;
-    background-color: rgb(39, 39, 39);
+    color: #fff;
+    background-color: #272727;
     font-family: 'Roboto', sans-serif;
 }
 
 .bg-b {
-    background-color: rgb(24, 24, 24);
+    background-color: #181818;
 }
 
 .navbar {
-    background-color: rgb(32, 32, 32);
+    background-color: #202020;
 }
 
 .navlink.active {
